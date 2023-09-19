@@ -47,5 +47,5 @@ Run the compiled executable:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://g...content-available-to-author-only...b.com/Ameensakr/University-Management-System.git
+   git clone https://github.com/I-Elhadad/OOP_project.git
 
