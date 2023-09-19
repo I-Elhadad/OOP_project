@@ -26,15 +26,21 @@ Run the compiled executable:
 ## Usage
 
 -Upon running the program, you will have access to various options for managing departments, professors, students, and courses.
+
 -Follow the on-screen instructions to add, remove, or update data in the system.
+
 -You can also use the provided sample data as a starting point for testing the program.
 
 ## Class Overview
 
 -Department: Represents a university department with attributes such as name, capacity, and required GPA.
+
 -Person: Base class for Student and Professor classes, containing common attributes like name, ID, age, and gender.
+
 -Student: Derived class from Person, representing a student with additional attributes like level and GPA.
+
 -Professor: Derived
+
 
 ## Getting Started
 
