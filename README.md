@@ -43,3 +43,8 @@ Run the compiled executable:
 
 
 ## Getting Started
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/I-Elhadad/OOP_project.git
